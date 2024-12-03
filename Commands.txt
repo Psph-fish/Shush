@@ -3,3 +3,5 @@ Perfect for using during Game Start to Maintain Secrecy.
 $unmuteall - Vice Versa of $muteall . Use for Talking During Discussions and Lobby.
 
 Bot Prefix - $
+
+Doesn't Have Any Slash Command Support
